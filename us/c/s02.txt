@@ -1,0 +1,30 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, solo,looking at viewer, facing viewer, looking up, full body, from front, slightly from above, 0.8::from above::, kneeling, on one knee, one knee on ground, right knee on ground, leaning forward, head down, 2::left hand on wall, arm against wall,leaning on wall::, 3::right hand on own side, hand pressed to wound, holding own side::,
+
+
+
+ -1::ear blush:: ,
+
+night, ruins, overcast, depth of field, blurry background,
+
+
+
+boy, 
+
+short hair, white hair, slicked back, pomade, side part, hair slicked back,
+
+green eyes, adult, 1.1::slim::, lean muscle, toned, broad shoulders,
+
+pained expression, clenched teeth, tired, 0.8::bitter smile::, looking down,
+
+
+three-piece suit, brown suit, brown suit jacket, brown vest, waistcoat, brown pants, white shirt, collared shirt, necktie, buttoned shirt, closed jacket,
+
+injury, bleeding, blood from mouth, blood on mouth, blood on chin, wound, blood on clothes, bloodstain, dirty clothes, dust,

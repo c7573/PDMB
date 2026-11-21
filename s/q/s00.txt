@@ -1,0 +1,15 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, solo, adult, tall female, white hair, very long hair, yellow eyes, sharp eyes, animal ears, tiger ears, white tiger ears, tail, tiger tail, striped tail, hanbok, modern hanbok, white hanbok, black stripes, tiger print, long sleeves, wide sleeves, smirk, playful, half-closed eyes, fang, looking up, looking at viewer,
+
+sitting, sitting on rock, on rock, left leg down, right leg crossed over left knee, right ankle on left knee, figure-four sitting, right elbow on knee, right hand holding kiseru, kiseru near mouth, hand near mouth, leaning forward, relaxed, tail on rock, kiseru, long pipe, light smoke,
+
+full body, centered, from above, high angle, 3/4 view, 0.8::from side::, depth of field,
+
+outdoors, mountain peak, mountaintop, cliff, rock, fog, thick fog, mist, low fog, clouds, sea of clouds, overcast, dawn, distant mountains, wind

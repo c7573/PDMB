@@ -1,0 +1,13 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, cowboy shot, centered, from above, high angle,from above, from side, 3/4 view, looking up, looking at viewerstanding, leaning against wall, back against wall, holding folder, holding file folder, hugging object, folder to chest, arms crossed over folder, feet together,
+
+-1::ear blush:: ,
+
+Office, light, depth of field, blurry background,

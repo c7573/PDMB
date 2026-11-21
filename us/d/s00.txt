@@ -1,0 +1,16 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, solo,upper body,looking at viewer, facing viewer, looking up,  standing, from above, high angle, 0.8::from side::, 1.1::three-quarter view::, 
+
+
+sitting,crossed arms, hands hidden
+
+ -1::ear blush:: ,
+
+ office, minimalist, 1.1::empty room::, dark, depth of field, blurry background

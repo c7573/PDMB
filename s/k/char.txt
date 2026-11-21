@@ -1,0 +1,8 @@
+boy, 
+middle-aged, 
+black hair, messy hair,
+black eyes, stubble, short beard,
+
+expressionless, half-closed eyes, jitome, tired, bags under eyes, parted lips,
+
+wrinkled shirt, white shirt, collared shirt, untucked shirt, loose necktie, black necktie, black pants, slacks, wrinkled pants, brown shoes, scuffed shoes

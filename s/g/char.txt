@@ -1,0 +1,9 @@
+boy, 
+curtained hair, brown hair,
+
+blue eyes, adult,adult, young adult, youthful ,2::muscular male::, broad shoulders, forearms,
+
+smile, grin, 0.9::smirk::, warm eyes, gentle eyes, relaxed, 
+
+white shirt, dress shirt, collared shirt, buttoned shirt, sleeves rolled up, black suspenders, wide suspenders, loose suspenders, black pants, slacks, 
+

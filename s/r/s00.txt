@@ -1,0 +1,13 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, cowboy shot, from below, low angle, centered, from front,looking down at viewer, looking at viewer,
+
+sitting, on throne, golden throne, crossed legs, right leg on left leg, hands on lap, upright posture,
+
+luxury cave,dark,depth of field, blurry background

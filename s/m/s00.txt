@@ -1,0 +1,16 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, cowboy shot, centered, from above, high angle, from above, from side, 3/4 view, looking up, looking at viewer,
+
+standing, back against wall, holding cup, coffee cup, right hand holding cup, right arm up, left arm under breasts, arm support, left hand, holding down paper, document,upright posture, straight back, head slightly raised
+
+
+-1::ear blush:: ,
+
+office hall way, light, depth of field, blurry background,

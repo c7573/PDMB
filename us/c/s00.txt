@@ -1,0 +1,14 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, solo,looking at viewer, looking up, cowboy shot, from above, 1.1::from above::, high angle, 3::close up::, sitting, on chair, office chair, crossed legs, legs crossed,hand on own chin, left hand on own chin, touching chin, hand on own face,right hand in pocket, hand in pocket, hand in pants pocket
+
+
+ -1::ear blush:: ,
+
+ office, luxury,

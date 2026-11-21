@@ -1,0 +1,7 @@
+1boy, solo, cowboy shot, standing,
+
+from side, 0.8::three-quarter view::, looking at viewer, facing viewer, head turned, leaning against wall, against wall, shoulder against wall, leaning back, 1.1::crossed arms::,
+
+serious, calm, closed mouth, 0.8::dignified::, 
+
+indoors, wall, dark grey wall, concrete wall, dim lighting, depth of field, blurry background

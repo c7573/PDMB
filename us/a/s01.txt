@@ -1,0 +1,17 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality,
+
+
+ -1::ear blush::
+
+1boy, solo, mature male, upper body, standing, looking at viewer,cowboy shot, from below, three-quarter view, from side, foreshortening, pointing sword at viewer, body turned, facing right,
+
+bare hands, bare fingers
+
+glowing sword, glowing blade, light particles, ornate hilt, dragon hilt, dragon motif, golden sword, magic sword,
+
+rain, ruins, destroyed city, overcast, dark sky, depth of field, blurry background,

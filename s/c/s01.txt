@@ -1,0 +1,21 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, solo, cowboy shot, standing, centered, symmetrical, from below, 1.1::from below::, 1.1::foreshortening::, perspective, looking down at viewer, right hand in pocket, hand in pocket, left arm extended, outstretched hand, palm up, open hand, offering hand,
+
+smirk, parted lips, 3::open mouth, tongue out, pink tongue,::
+
+4::golden aura, aura from mouth, light from mouth, gold light, golden particles, floating particles, light particles,::
+
+backlighting, golden light, lens flare, light rays, radiant light, glowing background, 1.2::golden flash::,
+
+
+
+ -1::ear blush:: ,
+
+night, ruins, destroyed city, overcast, depth of field, blurry background,

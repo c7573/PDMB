@@ -1,0 +1,13 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, solo, full body, cowboy shot, sitting, on chair, office chair, from above, 0.9::from above::, high angle, 0.6::from side::, 1.1::three-quarter view::, looking at viewer, facing viewer, looking up, hands behind head, arms behind head, elbows out, crossed legs, legs crossed, legs on desk, feet on desk, feet up, desk,
+
+ -1::ear blush:: ,
+
+training room,depth of field, blurry background,

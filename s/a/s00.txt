@@ -1,0 +1,14 @@
+short hair, black hair, 1.2::beard::, 
+
+mature male, middle-aged, 
+
+black eyes, sharp eyes, 
+
+0.8::muscular male::, broad shoulders, thick neck, 
+tall, 
+
+pale skin,
+
+eyepatch, black eyepatch, 1.2::eyepatch on right eye::, 
+
+black suit jacket, white shirt, collared shirt, buttoned shirt, closed jacket, black necktie, formal, fully clothed

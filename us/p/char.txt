@@ -1,0 +1,5 @@
+girl, 
+adult,
+ blue hair, short hair, wolf cut,
+ grey eyes, blue-grey eyes, tsurime, 1.2::dark circles::, pale skin, 
+white shirt, collared shirt, unbuttoned collar, open collar, sleeves rolled up, messy sleeves, black necktie, loose necktie, black slacks, black shoes

@@ -1,0 +1,5 @@
+1boy, solo, knee up, sitting, on chair,
+
+from above, 0.9::from above::, high angle, from side, 0.8::three-quarter view::, looking at viewer, facing viewer, looking up,
+
+crossed legs, legs crossed, legs together, holding document, holding paper, document, paper, holding own elbow, hand under elbow, arm support

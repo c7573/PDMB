@@ -1,0 +1,15 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, solo, knee up, 0.9::from above::, high angle ,looking at viewer, looking up,high angle, sitting, on chair, office chair, sitting, on chair, crossed legs, legs crossed, thigh up, legs together,
+
+holding fan, folding fan, blue folding fan, closed fan, 1.3::fan over chin::, covering mouth, hand to mouth, hand up,arm under breasts, left arm under own chest,
+
+ -1::ear blush:: ,
+
+office, dark, soft lighting,

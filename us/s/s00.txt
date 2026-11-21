@@ -1,0 +1,13 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1girl, solo, cowboy shot, close-up, from front, slightly from above, off-center,looking at viewer, head tilt,
+
+sitting, reclining, leaning to the side, leaning back, right leg extended, left knee up, right hand on water, hand in water, left arm raised, left hand raised, fingers relaxed, graceful pose, elegant, tails spread,
+
+night,forest ,depth of field, blurry background

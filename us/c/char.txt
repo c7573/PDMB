@@ -1,0 +1,10 @@
+boy, 
+
+short hair, white hair, slicked back, pomade, side part, hair slicked back,
+
+green eyes, adult, 1.1::slim::, lean muscle, toned, broad shoulders,
+
+smile, 1.1::smirk::, half-closed eyes, raised eyebrow,closed eyes, smile, 0.8::grin::, happy 
+
+
+three-piece suit, brown suit, brown suit jacket, brown vest, waistcoat, brown pants, white shirt, collared shirt, necktie, buttoned shirt, closed jacket,

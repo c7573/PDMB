@@ -1,0 +1,18 @@
+0.8::artist:pottsness ::, 0.2::artist:bikkusama ::,
+1.4::artist:yuyuworks ::, 0.2::artist:meion::,
+year 2024,
+
+-2::simple illustration ::, -3::artist collaboration ::,
+
+masterpiece, best quality, very aesthetic,
+
+1boy, solo, cowboy shot, standing, centered, symmetrical, from below, 1.1::from below::, looking at viewer, looking down at viewer, facing viewer, straight-on, 
+
+adjusting necktie, hand on necktie, adjusting clothes, right hand in pocket, hand in pocket,
+
+black chain, chains, many chains, chains behind, chains extending, floating chains, metallic sheen, shiny metal, chain links, black aura, dark light,
+
+
+ -1::ear blush:: ,
+
+night, ruins, destroyed building ,depth of field, blurry background,
